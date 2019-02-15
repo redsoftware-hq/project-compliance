@@ -54,3 +54,16 @@ Following guidelines are quite simple because they are a layer above _Create Rea
   }
 }
 ```
+
+## Product Packaging (aka Marketing)
+
+- A site with a clear and concise landing page
+- A blog with regular updates about product updates
+- Technical documentation for internal or open-source usage
+- Feature request form
+- Bug report form
+- Payment integration / Subscriptions / Offers / Discounts
+- Social media promotion pages (twitter / instagram / product hunt)
+- Promotion posts (hashnode / dev.to / hackernews)
+- Design promotion (dribbble, codepen)
+- Code snippet promotion (codepen)
