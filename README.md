@@ -24,12 +24,12 @@ Following guidelines are quite simple because they are a layer above _Create Rea
   
 - Project Structure Overview
 - Specify deployment URLs if any
-- Link to documentation (Either in README.md itself or external)
 - Weekly Schedule (Just copy this and modify if required)
   - The project follows a weekly release schedule to be done every Saturday
   - Code review can either be done in person or through a PR
   - A daily short chat with the team on progress/hurdles at 03:00 PM (Please keep it to a maximum of 10 min)
   - A weekly planning meeting of 15 min every Monday at 03:00 PM
+- Link to documentation (Either in README.md itself or external)
 
 ## Other
 
