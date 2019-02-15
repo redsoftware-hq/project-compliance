@@ -34,3 +34,23 @@ Following guidelines are quite simple because they are a layer above _Create Rea
 ## Other
 
 - A ROADMAP.md for a long-term vision of the project. (Specify weekly milestones and deadline)
+- .prettierrc
+```
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 80,
+  "semi": false
+}
+
+```
+- .eslintrc
+```
+{
+  "extends": "react-app",
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
+```
