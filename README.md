@@ -31,9 +31,9 @@ Following guidelines are quite simple because they are a layer above _Create Rea
   - A weekly planning meeting of 15 min every Monday at 03:00 PM
 - Link to documentation (Either in README.md itself or external)
 
-## Other
+## Other Files
 
-- A ROADMAP.md for a long-term vision of the project. (Specify weekly milestones and deadline)
+- ROADMAP.md: For long-term vision of the project. (Specify weekly milestones and deadline)
 - .prettierrc
 ```
 {
