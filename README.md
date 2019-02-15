@@ -11,7 +11,7 @@ Following guidelines are quite simple because they are a layer above _Create Rea
 - **enhancement** [New feature or request] [#a2eeef]
 - **next** [To be released next] [#9718c9]
 - **ready for release** [Issues that are ready to be merged/released] [#ffd5c9]
-- **good first issue** [For project newcomers] [#7057ff]
+- **good first issue** [Good for newcomers] [#7057ff]
 
 ## General Outline of the Project's README.md
 
