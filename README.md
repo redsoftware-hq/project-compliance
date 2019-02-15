@@ -17,10 +17,10 @@ Following guidelines are quite simple because they are a layer above _Create Rea
 
 - Getting Started
   - Specify if the project uses yarn or npm
-  1. Clone 
-  1. Install 
+  1. Clone (How to)
+  1. Install (How to)
   1. Specify any environment variables (.env) that need to be set up locally
-  1. Run
+  1. Run (How to)
   
 - Project Structure Overview
 - Specify deployment URLs if any
